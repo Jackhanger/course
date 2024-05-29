@@ -1,3 +1,5 @@
 {
-  url:''
+   "showVideo" :true,
+    "baseUrl":"https://ke.robinke.top/",
+    "token":"baf2bcdc90ac40b9cb4c6cb321ba07fa"    
 }
